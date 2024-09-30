@@ -4,12 +4,14 @@
 Pokemon find is a lightweight web application that allows users to search and explore various Pokémon data through the PokeAPI. The goal of this project is to create a seamless experience for Pokémon enthusiasts to quickly access Pokémon information.
 
 ## Thought Process
-During the development of Pokemon find, I aimed to create a minimalistic interface that prioritizes user experience. The project started with brainstorming sessions where I focused on the core functionalities I wanted to include, such as searching for Pokémon, viewing their details, and organizing the information in a visually appealing way.
+During the development of Pokemon find, I aimed to create a minimalistic interface , with vanila html css and js and also how api works with js and how will i update the dom as per data
 
 ## API Integration
 The application utilizes the [PokeAPI](https://pokeapi.co/) to fetch Pokémon data. The API provides a wide range of information, including Pokémon attributes, types, abilities, and much more. The key endpoints used in the application are:
 - `/pokemon`: For retrieving basic Pokémon information.
 - `/type`: To get details about different Pokémon types.
+## Rough Draw
+![Rough Sketch](./ss.png) 
 
 ### How It Works
 1. The user enters a Pokémon name or ID in the search bar.
